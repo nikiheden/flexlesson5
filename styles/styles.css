@@ -1,0 +1,23 @@
+.container {
+    height: 100vh;
+    width: 1152px;
+    background: #ee427e;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 468px;
+    height: 160px;    
+
+    background: #4076e2;
+    border-radius: 6px;
+
+
+}
